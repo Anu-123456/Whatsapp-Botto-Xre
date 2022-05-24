@@ -12,12 +12,12 @@
     "whatsapp-botto"
   ],
   "website": "https://github.com/Synthesized-Infinity/Whatsapp-Botto-Xre#readme",
-  "repository": "https://github.com/Synthesized-Infinity/Whatsapp-Botto-Xre.git",
+  "repository": "https://github.com/Synthesized-Infinity/Whatsapp-Botto-Xre/fork",
   "logo": "https://i.ibb.co/F3sc7Nb/Purple-Music-Store-Etsy-Banner.png",
   "success_url": "/",
   "env": {
     "BOT_NAME": {
-      "description": "Name of your bot"
+      "description": 
     },
     "PREFIX": {
       "description": "Prefix of your bot"
